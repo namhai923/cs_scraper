@@ -11,12 +11,14 @@
 1. In app folder, install all required libraries using command:  
     ```pip install -r requirements.txt```
 
-2. Run the app with Python
+2. Put `chromedriver.exe` file that you downloaded into `C:\Program Files (x86)` folder
 
-3. Check `C:\courses_description` folder for downloaded files
+3. Run the app with Python
 
-4. Check `courses_description.json` file for courses data in json
+4. Check `C:\courses_description` folder for downloaded files
+
+5. Check `courses_description.json` file for courses data in json
 
 ## Authors and Acknowledgment
-- Author: Minh Nam Hai Nguyen, aka "haideptraiwasuc"
+- Author: Minh Nam Hai Nguyen
 - Many thanks to Vinh Vu for giving me the idea to write this app.
